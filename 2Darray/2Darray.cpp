@@ -11,7 +11,7 @@ Date: 7-24-2022
 using namespace std;
 
 //declare global constants
-const string FILENAME = "assign31in.txt";
+const string FILENAME = "file.txt";
 const int MAX_ROW = 8,
 MAX_COL = 8,
 SEPERATION = 5,
