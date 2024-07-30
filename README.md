@@ -1,5 +1,5 @@
 # Computer Science I
-This repository holds all programs made in my Computer Science I class. Any program not included in the individual program folder contains an input file used in the program.
+This repository holds all programs made in my Computer Science I class. Any program not included in the individual program folder contains an input file used in the program. Each file contains a description of what the program does.
 
 ## Table of Contents
 
@@ -14,13 +14,13 @@ The programs in this repository can be executed using the [C++](https://sourcefo
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/LucasHasting/Programming-Languages-Research-Paper.git
+    git clone https://github.com/LucasHasting/Computer-Science-I.git
     ```
 
-2. Navigate to the project directory:
+2. Navigate to the directory of choice:
     
     ```sh
-    cd Programming-Languages-Research-Paper/Programs
+    cd Computer-Science-I/Program-Folder
     ```
     
 ### Option 2: without git
@@ -28,7 +28,7 @@ The programs in this repository can be executed using the [C++](https://sourcefo
 2. [Extract the zip file](https://www.wikihow.com/Unzip-a-File)
 
 #### Run from the command line
-1. Find the location of the files
+1. Find the location of the files you want to execute
 2. Copy the path
 3. go to the command line and run the following:
    ```sh
@@ -38,22 +38,19 @@ The programs in this repository can be executed using the [C++](https://sourcefo
 ### Compile and Execute
 Compile the program:
 ```sh
-rustc program-name
+g++ program-name
 ```
 
 Executing the program in Windows:
 ```sh
-program-name.exe
+a.exe
 ```
 
 Executing the program in Linux/Mac:
 ```sh
-./program-name
+./a.out
 ```
 
 ## Example
 
 ![EXAMPLE](example.png)
-
-## Important-Notice
-Programs 18-27 are for demonstration purposes on what Rust can and can not do safely, the programs may not run or may crash and are designed that way.
