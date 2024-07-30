@@ -38,7 +38,7 @@ The programs in this repository can be executed using the [C++](https://sourcefo
 ### Compile and Execute
 Compile the program:
 ```sh
-g++ program-name
+g++ program-name.cpp
 ```
 
 Executing the program in Windows:
