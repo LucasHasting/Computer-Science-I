@@ -54,7 +54,3 @@ Executing the program in Linux/Mac:
 ```sh
 ./a.out
 ```
-
-## Example
-
-![EXAMPLE](example.png)
