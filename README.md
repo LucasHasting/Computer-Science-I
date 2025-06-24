@@ -1,12 +1,7 @@
 # Computer Science I
 This repository holds all programs made in my Computer Science I class. Any program not included in the individual program folder contains an input file used in the program. Each file contains a description of what the program does.
 
-## Table of Contents
-
-- [C++-Installation](#c++-installation)
-- [Example](#example)
-
-## C++-Installation
+# C++ Installation and Usage
 
 The programs in this repository can be executed using the C++ language and the g++ compiler.
 
@@ -14,7 +9,7 @@ g++ for [Windows](https://sourceforge.net/projects/mingw/), don't forget to add 
 
 g++ can be installed on Linux using your favorite package manager.
 
-### Option 1: using [git](https://git-scm.com/downloads)
+## Download Repo - Option 1: using [git](https://git-scm.com/downloads)
 1. Clone the repository:
 
     ```sh
@@ -27,11 +22,11 @@ g++ can be installed on Linux using your favorite package manager.
     cd Computer-Science-I/Program-Folder
     ```
     
-### Option 2: without git
+## Download Repo - Option 2: without git
 1. Download the project as a zip file
 2. [Extract the zip file](https://www.wikihow.com/Unzip-a-File)
 
-#### Run from the command line
+### Run from the command line
 1. Find the location of the files you want to execute
 2. Copy the path
 3. go to the command line and run the following:
@@ -39,7 +34,7 @@ g++ can be installed on Linux using your favorite package manager.
    cd /path/to/files
    ```
 
-### Compile and Execute
+## Compile and Execute
 Compile the program:
 ```sh
 g++ program-name.cpp
